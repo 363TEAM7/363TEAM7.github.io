@@ -1,0 +1,49 @@
+body {
+	margin:auto;
+	width:60%;
+color: black; background-color: antiquewhite;
+text-align: center;}
+
+h1 {
+	color:red; font-family:sans-serif;
+text-align: center;}
+
+h2{
+	text-align: center;
+}
+ol {
+	margin:auto;
+    list-style-type: lower-roman;
+	text-align: left;
+}
+ul {
+	margin:auto;
+    list-style-type: lower-roman;
+	text-align: left;
+}
+table {
+	margin:auto;
+    border-collapse: collapse;
+   text-align: center;
+	position: center;
+   }
+   
+   
+ td {
+    margin:auto;
+	text-align: center;
+    padding: 8px;
+}
+
+li{
+	
+		margin:auto;
+}
+tr:nth-child(odd){background-color: silver}
+
+th {
+	margin:auto;
+    background-color: white;
+    color: black;
+	text-align: center;
+}

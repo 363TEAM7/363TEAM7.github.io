@@ -1,0 +1,44 @@
+
+h1 {color: white;}
+h2 {color: green;}
+section {
+background: radial-gradient(closest-corner at 60% 55%, red, yellow, black);
+
+width: 70%;
+margin: auto;
+
+}
+p {
+	font-size:100%;
+	line-height:2.5em;
+}
+
+div{
+	
+	background-color:LemonChiffon ;
+	
+}
+	body{
+		width:  70%;
+		margin: auto;
+	}
+ol {
+    list-style-type: lower-latin;
+}
+table{
+		width: 40%;
+		margin: auto;
+}
+
+th, td {
+    text-align: left;
+    padding: 30px;
+}
+
+
+th {
+    background-color: #3399ff;
+    color: white;
+}
+
+footer{background-color: gray;}
