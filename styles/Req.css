@@ -11,7 +11,7 @@ body {
 
 
 header{
-	text-align:center;
+text-align:center;
 	padding:20px;
 	background-color:#1E90FF;
 }
@@ -50,6 +50,11 @@ li:hover{
 }
 
 .nowMod {
+	background:#FFFF00;
+	 border-width:3.5px;
+}
+
+.nowMoc {
 	background:#FFFF00;
 	 border-width:3.5px;
 }
@@ -142,5 +147,9 @@ margin:10px;
 }
 
 img:hover{
-	width :350px;
-height:350px;}
+	width :210px;
+height:160px;}
+
+.footer{
+clear:both;}
+
